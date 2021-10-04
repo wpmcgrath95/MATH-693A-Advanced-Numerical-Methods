@@ -1,4 +1,4 @@
-# Math 693A Advanced Numerical Methods: Computational Optimization Class
+# Math 693A Advanced Numerical Methods: Computational Optimization Class - HW2
 
 # Setup for Development:
 
