@@ -152,3 +152,6 @@ static
 
 # Project related ignores (place project related ignores below here)
 .vscode
+/python/.ipynb_checkpoints/*
+/python/*.html
+.DS_Store
