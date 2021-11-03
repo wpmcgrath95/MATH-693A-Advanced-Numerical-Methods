@@ -153,3 +153,4 @@ static
 # Project related ignores (place project related ignores below here)
 .vscode
 .DS_Store
+./python/homework3.ipynb
